@@ -11,3 +11,11 @@ export const INDIA = ["TR", "SY", "LB", "IL", "GZ", "JO", "IQ", "IR", "SA", "YE"
 "IN", "PK", "NP", "BD", "LK", "BT", "MM", "UZ", "TM","TJ"];
 export const CHINA = ["CN", "MN", "JP", "KR", "KP", "HK", "TW"];
 export const OCEANIA = ["ID", "MY", "BN", "KH", "LA", "PG", "PH", "VN", "SG", "TL", "TH", "AU", "NZ", "NC", "FJ"];
+
+export const MAX_FAN = 5000000;
+
+export const BIG_FAN = 1000000;
+
+export const MEDIUM_FAN = 100000;
+
+export const MIN_FAN = 10000;
